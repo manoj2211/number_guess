@@ -1,0 +1,4 @@
+#this is sample file
+#created by author
+
+I learned some git hub commands.
